@@ -1,1 +1,5 @@
 https://exam.sanand.workers.dev/tds-2026-05-ga2
+Allowed CORS origin
+https://app-25dfbf.example.com
+Rate-limit bucket (B)
+15 req / 10s
